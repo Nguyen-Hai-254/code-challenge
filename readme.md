@@ -1,8 +1,8 @@
 
-## Full name: Phạm Nguyên Hải ##
-# You can cd into each problem folder to view the README.md file.
+# Full name: Phạm Nguyên Hải #
+## You can cd into each problem folder to view the README.md file.
 
-# Problem 4:
+## Problem 4:
 Steps to run the project:
 
 1. cd .\src\problem4\
@@ -11,7 +11,7 @@ Steps to run the project:
 4. Enter the value of N
 5. Press "c" to continue or press any key to exit
 
-Comments on the complexity:
+- Comments on the complexity:
     + sum_to_n_a(): use loop to calculate the result
     time complexity: O(n)
     Space Complexity: O(1)
@@ -28,7 +28,7 @@ Comments on the complexity:
 
 
 
-# Problem 5:
+## Problem 5:
 Steps to run the project:
 
 1. cd .\problem5\backend\  
@@ -42,7 +42,7 @@ Steps to run the project:
 
 8. Open the browser and go to: http://localhost:3000/  
 
-# Project Features:
+### Project Features:
 1. View the list of user information: Users can be filtered by age and salary. Note that the search feature on the UI is only designed to fit the current UI and does not have an API implementation yet.
 
 2. View user details through the edit information feature.
